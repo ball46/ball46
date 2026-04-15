@@ -1,25 +1,146 @@
-<h1 align="center">Hi 👋, I'm Charnchol Panusupairun</h1>
-<h3 align="center">A passionate backend developer from Thailand</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ball46&label=Profile%20views&color=0e75b6&style=flat" alt="ball46" /> </p>
-
-- 🌱 I’m currently learning **nest.js and spring**
-
-- 📫 How to reach me **charnchol.panu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charnchol ball panusupanirun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charnchol ball panusupanirun" height="30" width="40" /></a>
-<a href="https://fb.com/charnchol panusupanirun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charnchol panusupanirun" height="30" width="40" /></a>
-<a href="https://instagram.com/khunball46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khunball46" height="30" width="40" /></a>
-<a href="https://discord.gg/#0933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0933" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ball46">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=interface+Ball46+%7B;ship+%E2%80%A2+run+%E2%80%A2+translate;%2F%2F+currently%3A+trade-journal+v2" alt="ball46" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```typescript
+/**
+ * ball46.d.ts
+ * ─────────────────────────────────────────────────
+ * Full-stack engineer in Bangkok who runs the
+ * servers his products live on.
+ *
+ * I build things to understand them. The things I
+ * build tend to be the ones I actually needed —
+ * a trading journal I couldn't find, an Obsidian
+ * sync nobody would host for me, a crontab editor
+ * I got tired of vimming into.
+ *
+ * Also: I translate between users who don't speak
+ * code and developers who don't speak user.
+ * ─────────────────────────────────────────────────
+ */
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ball46&show_icons=true&locale=en&layout=compact" alt="ball46" /></p>
+interface Ball46 {
+  readonly name:     "Charnchol Panusupairun"
+  readonly handle:   "ball46"
+  readonly role:     "full-stack engineer" & "sysadmin of one"
+  readonly location: "Bangkok, Thailand (UTC+7)"
+  readonly speaks:   ["Thai", "English", "TypeScript", "Python", "Go"]
+  readonly bridges:  ["non-technical users", "developers"]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ball46&show_icons=true&locale=en" alt="ball46" /></p>
+  currently_building:  Project[]
+  stack_in_production: Service[]
+  principles:          readonly string[]
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ball46&" alt="ball46" /></p>
+<!-- pinned:start -->
+```typescript
+// ───────────────────────────────────────────
+// § currently_building
+// ───────────────────────────────────────────
+
+const projects: Project[] = [
+  {
+    name:   "trade-journal",
+    desc:   "MT5 analytics I built because I couldn't find one I'd use",
+    stack:  ["FastAPI", "PostgreSQL", "Next.js", "Casdoor"],
+    status: "running in production",
+    url:    "journal.mysiteonly.tech",
+  },
+  {
+    name:   "claude-agent-monitor",
+    desc:   "Live dashboard for Claude Code agent activity across sessions",
+    stack:  ["TypeScript", "React", "SSE"],
+    status: "in design",
+  },
+  {
+    name:   "yaos",
+    desc:   "Self-hosted Obsidian sync on Cloudflare Workers",
+    stack:  ["TypeScript", "Cloudflare Workers"],
+    status: "running in production",
+  },
+]
+```
+<!-- pinned:end -->
+
+```typescript
+// ───────────────────────────────────────────
+// § stack_in_production
+//   One VPS. Everything below lives on it.
+// ───────────────────────────────────────────
+
+const infra: Service[] = [
+  { name: "nginx",       role: "reverse proxy + TLS termination" },
+  { name: "Docker",      role: "container runtime" },
+  { name: "PostgreSQL",  role: "primary datastore" },
+  { name: "Casdoor",     role: "SSO / identity provider" },
+  { name: "Casbin",      role: "authorization / RBAC" },
+  { name: "Loki",        role: "log aggregation" },
+  { name: "Grafana",     role: "dashboards" },
+  { name: "Uptime Kuma", role: "service monitoring" },
+  { name: "SOPS",        role: "secrets management" },
+]
+```
+
+```typescript
+// ───────────────────────────────────────────
+// § principles
+// ───────────────────────────────────────────
+
+const principles = [
+  "build the thing you need — nothing more, until you need more",
+  "own the servers your product runs on",
+  "fix root causes, never symptoms",
+  "security is never a 'later' ticket",
+  "automate anything you've done twice",
+  "the best feedback loop is talking to the user",
+] as const
+```
+
+```typescript
+// ───────────────────────────────────────────
+// § runtime_metrics
+//   computed from github — live values
+// ───────────────────────────────────────────
+```
+
+<a href="https://github.com/ball46">
+  <img align="left" height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=ball46&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="ball46 stats" />
+</a>
+<a href="https://github.com/ball46">
+  <img align="left" height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ball46&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="ball46 top languages" />
+</a>
+
+<br clear="both" />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ball46&theme=github-compact&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5e0dc&hide_border=true" alt="ball46 activity graph" />
+
+```typescript
+// ───────────────────────────────────────────
+// § contact
+// ───────────────────────────────────────────
+
+const contact = {
+  email:     "khunball46@gmail.com",
+  github:    "https://github.com/ball46",
+  instagram: "https://instagram.com/khunball46",
+
+  // broken in the previous README — left empty pending URL verification
+  linkedin:  null,
+  facebook:  null,
+  discord:   null,
+} as const
+```
+
+```typescript
+// ───────────────────────────────────────────
+// EOF — ball46.d.ts
+// last_updated: 2026-04-16
+// ───────────────────────────────────────────
+```
