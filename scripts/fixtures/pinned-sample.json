@@ -1,0 +1,52 @@
+{
+  "data": {
+    "viewer": {
+      "pinnedItems": {
+        "nodes": [
+          {
+            "name": "trade-journal",
+            "description": "MT5 analytics I built because I couldn't find one I'd use",
+            "homepageUrl": "https://journal.mysiteonly.tech",
+            "url": "https://github.com/ball46/trade-journal",
+            "isArchived": false,
+            "pushedAt": "2026-04-06T12:00:00Z",
+            "languages": {
+              "nodes": [
+                { "name": "Python" },
+                { "name": "TypeScript" },
+                { "name": "CSS" }
+              ]
+            }
+          },
+          {
+            "name": "vintage-lib",
+            "description": "An experiment from a while back",
+            "homepageUrl": "",
+            "url": "https://github.com/ball46/vintage-lib",
+            "isArchived": false,
+            "pushedAt": "2025-09-28T00:00:00Z",
+            "languages": {
+              "nodes": [
+                { "name": "Go" },
+                { "name": "Makefile" }
+              ]
+            }
+          },
+          {
+            "name": "old-thing",
+            "description": "Archived reference project",
+            "homepageUrl": "",
+            "url": "https://github.com/ball46/old-thing",
+            "isArchived": true,
+            "pushedAt": "2024-01-01T00:00:00Z",
+            "languages": {
+              "nodes": [
+                { "name": "C" }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
