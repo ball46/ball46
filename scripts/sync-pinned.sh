@@ -17,7 +17,7 @@ START_MARKER='<!-- pinned:start -->'
 END_MARKER='<!-- pinned:end -->'
 
 GRAPHQL_QUERY='{
-  viewer {
+  user(login: "ball46") {
     pinnedItems(first: 6, types: REPOSITORY) {
       nodes {
         ... on Repository {
@@ -42,6 +42,15 @@ else
   raw="$(gh api graphql -f query="$GRAPHQL_QUERY")"
 fi
 
+# Safety guard: if zero pins returned, bail out without rewriting so we
+# don't wipe the existing currently_building entries (happens when the
+# query runs against an account with no pinned items).
+pin_count="$(echo "$raw" | jq '.data.user.pinnedItems.nodes | length')"
+if [[ "$pin_count" -eq 0 ]]; then
+  echo "warning: 0 pinned repositories returned — skipping README rewrite." >&2
+  exit 0
+fi
+
 # Derive status: archived -> archived, pushed in last 90d -> running in production, else in development
 now_epoch="$(date -u +%s)"
 ninety_days_ago=$(( now_epoch - 90 * 86400 ))
@@ -60,7 +69,7 @@ trap 'rm -f "$tmp_block"' EXIT
 } >> "$tmp_block"
 
 echo "$raw" | jq -r --argjson cutoff "$ninety_days_ago" '
-  .data.viewer.pinnedItems.nodes[]
+  .data.user.pinnedItems.nodes[]
   | {
       name,
       description: (.description // "(no description)"),
