@@ -43,25 +43,6 @@ interface Ball46 {
 // ───────────────────────────────────────────
 
 const projects: Project[] = [
-  {
-    name:   "trade-journal",
-    desc:   "MT5 analytics I built because I couldn't find one I'd use",
-    stack:  ["FastAPI", "PostgreSQL", "Next.js", "Casdoor"],
-    status: "running in production",
-    url:    "journal.mysiteonly.tech",
-  },
-  {
-    name:   "claude-agent-monitor",
-    desc:   "Live dashboard for Claude Code agent activity across sessions",
-    stack:  ["TypeScript", "React", "SSE"],
-    status: "in design",
-  },
-  {
-    name:   "yaos",
-    desc:   "Self-hosted Obsidian sync on Cloudflare Workers",
-    stack:  ["TypeScript", "Cloudflare Workers"],
-    status: "running in production",
-  },
 ]
 ```
 <!-- pinned:end -->
