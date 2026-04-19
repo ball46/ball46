@@ -1,0 +1,41 @@
+name: Sync pinned projects
+
+on:
+  schedule:
+    - cron: '23 4 * * 1'   # weekly, Monday 04:23 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/sync-pinned.sh'
+      - '.github/workflows/sync-pinned.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Run sync-pinned.sh
+        env:
+          GH_TOKEN: ${{ secrets.PINNED_PAT || secrets.GITHUB_TOKEN }}
+        run: bash scripts/sync-pinned.sh
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No pinned changes — nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync currently_building from pinned repos"
+          git push
