@@ -109,11 +109,11 @@ const principles = [
 
 <a href="https://github.com/ball46">
   <img align="left" height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=ball46&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="ball46 stats" />
+       src="https://github-readme-stats.vercel.app/api?username=ball46&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="ball46 stats" />
 </a>
 <a href="https://github.com/ball46">
   <img align="left" height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ball46&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="ball46 top languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ball46&layout=compact&theme=catppuccin_mocha&hide_border=true&exclude_repo=https---github.com-SE-Project-BOTMAPS-backend,upbeat_backend,Project_UPBEAT,Project_UPBEAT_Spring&langs_count=8" alt="ball46 top languages" />
 </a>
 
 <br clear="both" />
