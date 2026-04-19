@@ -4,11 +4,8 @@ on:
   schedule:
     - cron: '23 4 * * 1'   # weekly, Monday 04:23 UTC
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'scripts/sync-pinned.sh'
-      - '.github/workflows/sync-pinned.yml'
+  # on-push auto-trigger disabled — use manual dispatch or weekly cron
+  # to avoid running sync against stale GitHub pins during bug-fix commits
 
 permissions:
   contents: write
