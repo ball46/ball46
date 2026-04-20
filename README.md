@@ -44,23 +44,32 @@ interface Ball46 {
 
 const projects: Project[] = [
   {
-    name:   "trade-journal",
-    desc:   "MT5 analytics I built because I couldn't find one I'd use",
-    stack:  ["FastAPI", "PostgreSQL", "Next.js", "Casdoor"],
-    status: "running in production",
-    url:    "journal.mysiteonly.tech",
+    name:   "checkers-game",
+    desc:   "(no description)",
+    stack:  ["Scala"],
+    status: "in development",
+    url:    "https://github.com/ball46/checkers-game",
   },
   {
-    name:   "claude-agent-monitor",
-    desc:   "Live dashboard for Claude Code agent activity across sessions",
-    stack:  ["TypeScript", "React", "SSE"],
-    status: "in design",
+    name:   "Project_UPBEAT",
+    desc:   "(no description)",
+    stack:  ["Java"],
+    status: "in development",
+    url:    "https://github.com/ball46/Project_UPBEAT",
   },
   {
-    name:   "yaos",
-    desc:   "Self-hosted Obsidian sync on Cloudflare Workers",
-    stack:  ["TypeScript", "Cloudflare Workers"],
+    name:   "backend",
+    desc:   "(no description)",
+    stack:  ["Go","Dockerfile"],
+    status: "in development",
+    url:    "https://github.com/SE-Project-BOTMAPS/backend",
+  },
+  {
+    name:   "crontab-ui",
+    desc:   "Interactive TUI for managing crontab — no syntax memorization, no vim required.",
+    stack:  ["Python","Shell"],
     status: "running in production",
+    url:    "https://github.com/ball46/crontab-ui",
   },
 ]
 ```
