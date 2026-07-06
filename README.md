@@ -68,7 +68,7 @@ const projects: Project[] = [
     name:   "crontab-ui",
     desc:   "Interactive TUI for managing crontab — no syntax memorization, no vim required.",
     stack:  ["Python","Shell"],
-    status: "running in production",
+    status: "in development",
     url:    "https://github.com/ball46/crontab-ui",
   },
 ]
